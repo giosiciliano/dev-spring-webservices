@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsRequest xmlns="http://gio.com/courses" 
+xsi:schemaLocation="http://gio.com/courses course-details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<!-- must correspond to the structure of the xsd- xml scheme definition -->
+	<id>123</id> <!-- numbers only -->
+</GetCourseDetailsRequest>
